@@ -1,6 +1,6 @@
 === Simple Bar ===
 Contributors: Umar Bajwa
-Tags:Bar,simple bar,WP Bar,wordpress bar plugin,email subscribe,jbar,nbar,Bar Plugin,scroll to top,popup,traffic,seo,
+Tags:Bar,simple bar,WP Bar,wordpress bar plugin,email subscribe,jbar,nbar,Bar Plugin,scroll to top,popup,traffic,seo,promotions bar,announcement bar,alert bar,
 Donate Link : http://wpscrolltotop.blogspot.com/
 Requires at least:2.2
 Tested up to :3.8
