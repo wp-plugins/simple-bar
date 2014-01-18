@@ -1,9 +1,10 @@
 <?php
 /*  
 Plugin Name:Simple Bar
-Plugins URI:http://www.wpscrolltotop.blogspot.com
+Plugin URI:http://www.wpscrolltotop.blogspot.com
 Author URI :http://www.wpscrolltotop.blogspot.com
-Description:Simple Bar Plugin 
+Description:Simple Bar plugin is very helpful for attracting users attention.
+Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
 Version:1.0
 Author: Umar Bajwa
 License: GPLv2
