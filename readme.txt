@@ -15,7 +15,7 @@ Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
 Simple bar plugin offers simple and user friendly user interface. Customizable bar with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
-== Features ==
+ <h2>Features</h2>
 
 * Provides easy and simple user interface.
 * Responsive/Fluid.
