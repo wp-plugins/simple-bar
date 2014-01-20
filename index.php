@@ -91,7 +91,7 @@ add_action('admin_menu','mpb_menu_set');
 
 function mpb_menu_set(){
   add_menu_page(
-  'mpb_options',
+  'Simple Bar Maker',
   'Simple News Bar',
   'administrator',
   'mpb_settings',

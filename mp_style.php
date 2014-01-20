@@ -91,7 +91,9 @@
   visibility: hidden;
 }
 
-
+#content_input_form input{
+margin-left: 15px;
+}
 
 
 
