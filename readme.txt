@@ -7,11 +7,11 @@ Tested up to :3.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple Bar plugin is beautifully designed with focus on ease of use, No developer logo. 
+Notification Bar plugin is beautifully designed with focus on ease of use, No developer logo. 
 
 == Description ==
 
-Simple bar plugin offers simple and user friendly user interface. Customizable bar with important features which most of the bar plugins do not offer. 
+Notification bar plugin offers simple and user friendly user interface. Customizable bar via opyions panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
 
