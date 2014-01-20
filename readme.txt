@@ -14,7 +14,7 @@ Simple Bar plugin is beautifully designed with focus on ease of use, No develope
 Simple bar plugin offers simple and user friendly user interface. Customizable bar with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
- ==Features==
+
 
 * Provides easy and simple user interface.
 * Responsive/Fluid.
