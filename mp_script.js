@@ -1,3 +1,6 @@
+//Copyright
+
+
 jQuery(document).ready(function(){
  jQuery('#mp_close').click(function(){
  jQuery('#main_mp_box').hide(500);
