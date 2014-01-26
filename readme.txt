@@ -23,6 +23,8 @@ Responsive , zero coding skills, fulfill your needs.
 * Add custom html, buttons and much more.
 * Design your own bar according to your theme.
 
+<a href="http://notificationbar.blogspot.com/">Get Premium Version</a>
+
 <a href="http://www.wpscrolltotop.blogspot.com">Check my other plugins</a>
 
 
@@ -31,5 +33,5 @@ Responsive , zero coding skills, fulfill your needs.
 
 == Screenshots ==
 
-For Screenshots Visit: <a href="http://wpscrolltotop.blogspot.com">Screen Shots</a>
+For Screenshots Visit: <a href="http://notificationbar.blogspot.com/">Screen Shots</a>
 

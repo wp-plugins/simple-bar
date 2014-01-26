@@ -105,6 +105,8 @@ function admin_mpb_page(){
      <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
   <h1>Bar Plugin</h1>
+  <br>
+   <a href="http://notificationbar.blogspot.com/"><button style="height:70px; width:450px; font-size:20px; color:#000; background-color:#f1c40f; font-family:verdana; border: 5px outset buttonface; box-shadow:5px 5px 15px #000" ><b>For all Features and Support Get Premium Version</b></button></a>
 
    <br>
    <br>
@@ -113,25 +115,54 @@ function admin_mpb_page(){
         <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
   <label for="mcb_bar_height"><span style="color :red;"> * </span> Bar Height :</label>
-  <input type="number" style="width:10%;" name="mcb_bar_height" value="<?php echo get_option('mcb_bar_height'); ?>"/>
+  <input type="number" style="width:10%;" name="mcb_bar_height" value="<?php echo get_option('mcb_bar_height'); ?>" max="6"/>
   <br>
   <br>
    <label for="mcb_background_color"><b>Background Color  :</b> </label>
    <input type="color" name="mcb_background_color" class="mcb_bg_color" value="<?php echo get_option('mcb_background_color'); ?>">
    <br>
+   
+   <textarea placeholder="Insert your css gradient code here." disabled></textarea>
    <br>
    <h3>Position </h3>
    <label for="mcb_bar_position"><span style="color :red;"> * </span> Bottom : </label>
-   <input type="radio" name="mcb_bar_position" value="bottom:0%;" >
+   <input type="radio" name="mcb_bar_position" value="bottom:0%;" checked>
    <br>
    <br>
-   <label for="mcb_bar_position"><span style="color :red;">*</span> Top : </label>
-   <input type="radio" name="mcb_bar_position" value="top:0%;">
+   <label for="mcb_bar_position" style="opacity:0.7;"><span style="color :red;">*</span> Top : </label>
+   <input type="radio"  name="mcb_bar_position" value="" disabled>
    <br>
    <br>
    <label for="mcb_text_wrap"><b>Text Wrap : </b></label>
    <input type="checkbox" name="mcb_text_wrap" class="mcb_text_wrap" value='1em'><p id="textwrap_msg">Select only if there are more lines than one.</p>
+
+    <h4>Call To Action Button :</h4>
+<select name="mcb_button_cta" disabled>
+  <option value="visible">On</option>
+  <option value="none">Off</option>
+
+</select>
+<br>
   <br>
+  <h4>Call To Action Email field :</h4>
+  <select name="mcb_email_cta" disabled>
+  <option value="visible">On</option>
+  <option value="none"  >Off</option>
+</select>
+<br>
+
+<h4>Add Social Icons</h4>
+<label name="facebook"><b>Facebook :</b></label>
+<input type="checkbox" name="Facebook" disabled>
+<br>
+<label name="twitter"><b>Twitter :</b></label>
+<input type="checkbox" name="twitter" disabled>
+<br>
+<label name="twitter"><b>Pinterest :</b></label>
+<input type="checkbox" name="twitter" disabled>
+
+
+  
    <?php
    $settings = array('media_buttons'=> false,'mcb_content');
    $mcb_content = get_option('mcb_content');
@@ -140,7 +171,9 @@ function admin_mpb_page(){
 
    ?>
    <?php submit_button( 'Save Content');  ?>
+
  </form>
+ 
 <?php
 
  };
