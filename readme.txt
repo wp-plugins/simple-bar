@@ -11,7 +11,7 @@ Notification Bar plugin is beautifully designed with focus on ease of use, No de
 
 == Description ==
 
-Notification bar plugin offers simple and user friendly user interface. Customizable bar via opyions panel with important features which most of the bar plugins do not offer. 
+Notification bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
 
@@ -23,7 +23,11 @@ Responsive , zero coding skills, fulfill your needs.
 * Add custom html, buttons and much more.
 * Design your own bar according to your theme.
 
+Live Demo : <a href="http://notificationbar.blogspot.com/">Click Here</a>
+
 <a href="http://notificationbar.blogspot.com/">Get Premium Version</a>
+
+
 
 <a href="http://www.wpscrolltotop.blogspot.com">Check my other plugins</a>
 
