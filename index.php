@@ -1,6 +1,6 @@
 <?php
 /*  
-Plugin Name:Simple Bar
+Plugin Name:Notification Bar
 Plugin URI:http://www.wpscrolltotop.blogspot.com
 Author URI :http://www.wpscrolltotop.blogspot.com
 Description:Simple Bar plugin is very helpful for attracting users attention.
@@ -174,6 +174,11 @@ function admin_mpb_page(){
 
  </form>
  
+ <style type="text/css">
+ #wpfooter{
+  display:none;
+ }
+ </style>
 <?php
 
  };

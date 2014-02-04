@@ -92,7 +92,7 @@
 }
 
 #content_input_form input{
-margin-left: 14px;
+margin-left: 15px;
 }
 
 
