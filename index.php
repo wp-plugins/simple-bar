@@ -1,6 +1,6 @@
 <?php
 /*  
-Plugin Name:Notification Bar
+Plugin Name: Notification Bar
 Plugin URI:http://www.wpscrolltotop.blogspot.com
 Author URI :http://www.wpscrolltotop.blogspot.com
 Description:Simple Bar plugin is very helpful for attracting users attention.
@@ -10,6 +10,11 @@ Author: Umar Bajwa
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: http://www.wpscrolltotop.blogspot.com
+
+--Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.--
+
+
 */
 
 
@@ -91,8 +96,8 @@ add_action('admin_menu','mpb_menu_set');
 
 function mpb_menu_set(){
   add_menu_page(
-  'Simple Bar Maker',
-  'Simple News Bar',
+  'Notification Bar',
+  'Notification Bar',
   'administrator',
   'mpb_settings',
   'admin_mpb_page' 
@@ -150,7 +155,13 @@ function admin_mpb_page(){
   <option value="none"  >Off</option>
 </select>
 <br>
-
+<br>
+   <label for="mcb_border_color"><b>Border Color : </b></label>
+   <input type="color" name="mcb_border_color" value="<?php echo get_option('mcb_border_color');?>" disabled>
+<label for="mcb_border_width"><b>Width : </b></label>
+   <input type="number" name="mcb_border_width" value="<?php echo get_option('mcb_border_width'); ?>" style="width:10%;" disabled>
+   <br>
+   <hr>
 <h4>Add Social Icons</h4>
 <label name="facebook"><b>Facebook :</b></label>
 <input type="checkbox" name="Facebook" disabled>
