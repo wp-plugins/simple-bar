@@ -1,4 +1,4 @@
-=== Message Bar ===
+=== Notification Bar ===
 Contributors: Umar Bajwa
 Tags:Hello Bar,Notification bar,Bar,simple bar,WP Bar,wordpress bar plugin,email subscribe,jbar,nbar,Bar Plugin,scroll to top,popup,traffic,seo,promotions bar,announcement bar,alert bar,alert bar,message bar
 Donate Link : http://wpscrolltotop.blogspot.com/
@@ -7,11 +7,11 @@ Tested up to :3.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Message Bar plugin is beautifully designed with focus on ease of use, No developer logo. 
+Notification Bar plugin is beautifully designed with focus on ease of use, No developer logo. 
 
 == Description ==
 
-Message bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
+Notification Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
 
