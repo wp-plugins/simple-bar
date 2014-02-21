@@ -1,6 +1,6 @@
 <?php
 /*  
-Plugin Name: Notification Bar
+Plugin Name: Message Bar
 Plugin URI:http://www.wpscrolltotop.blogspot.com
 Author URI :http://www.wpscrolltotop.blogspot.com
 Description:Simple Bar plugin is very helpful for attracting users attention.
