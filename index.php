@@ -111,7 +111,16 @@ function admin_mpb_page(){
 <?php do_settings_sections( 'mcb_setting_group' );?>
   <h1>Bar Plugin</h1>
   <br>
-   <a href="http://notificationbar.blogspot.com/"><button style="height:70px; width:450px; font-size:20px; color:#000; background-color:#f1c40f; font-family:verdana; border: 5px outset buttonface; box-shadow:5px 5px 15px #000" ><b>For all Features and Support Get Premium Version</b></button></a>
+   <a href="http://notificationbar.blogspot.com/"><button style="height:90px; width:650px; font-size:25px; color:#fff; 
+    background: #a90329;
+background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
+background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 );
+  font-family:verdana; box-shadow:5px  5px 0 #c8022f;border:none;" ><b>For all Features and Support Get Premium Version</b></button></a>
 
    <br>
    <br>
