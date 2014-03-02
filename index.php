@@ -1,6 +1,6 @@
 <?php
 /*  
-Plugin Name: Message Bar
+Plugin Name: Notification Bar
 Plugin URI:http://www.wpscrolltotop.blogspot.com
 Author URI :http://www.wpscrolltotop.blogspot.com
 Description:Simple Bar plugin is very helpful for attracting users attention.
@@ -109,9 +109,10 @@ function admin_mpb_page(){
    ?>
      <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
+<div class="formLayout">
   <h1>Bar Plugin</h1>
   <br>
-   <a href="http://notificationbar.blogspot.com/"><button style="height:90px; width:650px; font-size:25px; color:#fff; 
+   <a href="http://notificationbar.blogspot.com/"><button style="height:90px; width:750px; font-size:25px; color:#fff; 
     background: #a90329;
 background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
@@ -120,7 +121,7 @@ background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
 background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
 background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 );
-  font-family:verdana; box-shadow:5px  5px 0 #c8022f;border:none;" ><b>For all Features and Support Get Premium Version</b></button></a>
+  font-family:verdana; box-shadow:5px  5px 0 #c8022f;border:none;" >For all Features and Support Get <span style="font-size:30px; color:#3498db;"><b>Premium Version</b></span></button></a>
 
    <br>
    <br>
@@ -140,17 +141,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
    <br>
    <h3>Position </h3>
    <label for="mcb_bar_position"><span style="color :red;"> * </span> Bottom : </label>
-   <input type="radio" name="mcb_bar_position" value="bottom:0%;" checked>
+   <input type="radio" name="mcb_bar_position" value="bottom:0%;" checked style="width:10px;">
    <br>
    <br>
    <label for="mcb_bar_position" style="opacity:0.7;"><span style="color :red;">*</span> Top : </label>
-   <input type="radio"  name="mcb_bar_position" value="" disabled>
+   <input type="radio"  name="mcb_bar_position" value="" disabled style="width:10px;">
    <br>
    <br>
    <label for="mcb_text_wrap"><b>Text Wrap : </b></label>
-   <input type="checkbox" name="mcb_text_wrap" class="mcb_text_wrap" value='1em'><p id="textwrap_msg">Select only if there are more lines than one.</p>
+   <input type="checkbox" name="mcb_text_wrap" class="mcb_text_wrap" value='1em' style="width:10px;"><p id="textwrap_msg">Select only if there are more lines than one.</p>
 
-    <h4>Call To Action Button :</h4>
+    <label for="mcb_button_cta">Call To Action Button :</label>
 <select name="mcb_button_cta" disabled>
   <option value="visible">On</option>
   <option value="none">Off</option>
@@ -158,7 +159,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 </select>
 <br>
   <br>
-  <h4>Call To Action Email field :</h4>
+  <label for="mcb_email_cta">Call To Action Email field :</label>
   <select name="mcb_email_cta" disabled>
   <option value="visible">On</option>
   <option value="none"  >Off</option>
@@ -168,7 +169,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
    <label for="mcb_border_color"><b>Border Color : </b></label>
    <input type="color" name="mcb_border_color" value="<?php echo get_option('mcb_border_color');?>" disabled>
 <label for="mcb_border_width"><b>Width : </b></label>
-   <input type="number" name="mcb_border_width" value="<?php echo get_option('mcb_border_width'); ?>" style="width:10%;" disabled>
+   <input type="number" name="mcb_border_width" value="<?php echo get_option('mcb_border_width'); ?>"  disabled>
    <br>
    <hr>
 <h4>Add Social Icons</h4>
@@ -193,6 +194,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
    <?php submit_button( 'Save Content');  ?>
 
  </form>
+</div>
+
+<div id="sp_meesage"><a href="http://sites.fastspring.com/wpscrolltotop/product/notificationbarsupport" target="_blank"><button <button style="height:110px; font-size:25px; color:#fff; 
+    background: #a90329;
+background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
+background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 );
+  font-family:verdana; box-shadow:1px  5px 55px #000;border:none;">For Premium support and custom plugin customizations <span style="color:#3498db;font-size:30px"><b>Click Here</b></span> <p style="font-size:11px; float:left;">* Premium Version Included + Additional customizations according to your theme and requirements.</p> </button></a></div>
  
  <style type="text/css">
  #wpfooter{
