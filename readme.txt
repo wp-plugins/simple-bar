@@ -36,12 +36,6 @@ Responsive , zero coding skills, fulfill your needs.
 <a href="http://notificationbar.blogspot.com/">Get Premium Version</a>
 
 
-Live Demo : <a href="http://notificationbar.blogspot.com/">Click Here</a>
-
-
-<a href="http://www.wpscrolltotop.blogspot.com">Check my other plugins</a>
-
-
 == Installation ==
 * Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
