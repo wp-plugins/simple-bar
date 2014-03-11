@@ -196,6 +196,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
  </form>
 </div>
  
+ <div id="sp_meesage"><a href="http://sites.fastspring.com/wpscrolltotop/product/notificationbarsupport" target="_blank"><button <button style="height:110px; font-size:25px; color:#fff; 
+    background: #a90329;
+background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
+background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 );
+  font-family:verdana; box-shadow:1px  5px 55px #000;border:none;">For Premium support and custom plugin customizations <span style="color:#3498db;font-size:30px"><b>Click Here</b></span> <p style="font-size:11px; float:left;">* Premium Version Included + Additional customizations according to your theme and requirements.</p> </button></a></div>
+  
  <style type="text/css">
  #wpfooter{
   display:none;
