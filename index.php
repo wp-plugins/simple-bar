@@ -112,7 +112,7 @@ function admin_mpb_page(){
 <div class="formLayout">
   <h1>Bar Plugin</h1>
   <br>
-   <a href="http://notificationbar.blogspot.com/"><button style="height:90px; width:750px; font-size:25px; color:#fff; 
+   <a href="http://sites.fastspring.com/wpscrolltotop/product/notificationbar"><button style="height:90px; width:750px; font-size:25px; color:#fff; 
     background: #a90329;
 background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
