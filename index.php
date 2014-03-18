@@ -96,8 +96,8 @@ add_action('admin_menu','mpb_menu_set');
 
 function mpb_menu_set(){
   add_menu_page(
-  'Notification Bar',
-  'Notification Bar',
+  'Message Bar',
+  'Message Bar',
   'administrator',
   'mpb_settings',
   'admin_mpb_page' 
