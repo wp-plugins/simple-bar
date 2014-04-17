@@ -3,7 +3,7 @@ Contributors: Umar Bajwa
 Tags:advertising, announce bar, attention bar, bar, blog monetization, conversion, discount offer, engagement, floating bar, highlight bar, important, mailpoet, message, message bar, notice, notification, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, notification bar,top notification bar,announcement bar,alert bar,,attention bar, discount offer, floating bar, highlight bar, important, message, notice, notification, notification bar, offer, special offer, sticky header,Hello Bar,Notification bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,
 Donate Link : http://wpscrolltotop.blogspot.com/
 Requires at least:2.2
-Tested up to :3.8
+Tested up to :3.9
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
