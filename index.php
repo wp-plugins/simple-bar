@@ -1,9 +1,9 @@
 <?php
 /*  
-Plugin Name: Message Bar
+Plugin Name: Notification Bar
 Plugin URI:http://notificationbar.blogspot.com/
 Author URI :http://www.wpscrolltotop.blogspot.com
-Description:Simple Bar plugin is very helpful for attracting users attention.
+Description:Notification Bar plugin is very helpful for attracting users attention and to achieve conversions.
 Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
 Version:1.0
 Author: Umar Bajwa
@@ -146,8 +146,8 @@ add_action('admin_menu','mpb_menu_set');
 
 function mpb_menu_set(){
   add_menu_page(
-  'Message Bar ',
-  'Message Bar',
+  'Notification Bar ',
+  'Notification Bar',
   'administrator',
   'mpb_settings_f',
   'admin_mpb_page_f' 
@@ -159,7 +159,7 @@ function admin_mpb_page_f(){
    ?>
      <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
-  <h1>Message Bar Plugin</h1>
+  <h1>Notification Bar </h1>
 
    <br>
     <br>
@@ -185,7 +185,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
         <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
   <label for="mcb_bar_height"><span style="color :red;"> * </span> <b>Bar Height :</b></label>
-  <input type="number" style="width:10%;" name="mcb_bar_height" min="1" max="100"  value="<?php echo get_option('mcb_bar_height'); ?>"/>
+  <input type="number" style="width:10%;" name="mcb_bar_height" min="1" max="100"  value="<?php echo get_option('mcb_bar_height'); ?>"/> %
   <br>
   <label for="mcb_gradient_color"><h4>CSS Gradients : </h4></label>
   <input type="text" style="width:200px height:300px;" name="mcb_gradient_color" value="<?php get_option('mcb_gradient_color'); ?>">
@@ -271,7 +271,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 <select name="mcb_button_cta">
   <option value="inline"
 <?php selected('inline', get_option('mcb_button_cta')); ?>
-  >On</option>
+  disabled >On</option>
   <option value="none" 
 
 <?php selected('none', get_option('mcb_button_cta')); ?>
