@@ -1,8 +1,8 @@
 === Notification Bar ===
 Contributors: umarbajwa
 author:umarbajwa
-Tags:notify,nitification,advertising, announce bar, attention bar, bar, blog monetization, conversion, discount offer, engagement, floating bar, highlight bar, important, mailpoet, message, message bar, notice, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,,attention bar, discount offer, floating bar, highlight bar, important, message, notice, notification, notification bar, offer, special offer, sticky header,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message box,notification box
-Donate Link : http://wpscrolltotop.blogspot.com/
+Tags:notify,notification,advertising, announce bar, attention bar, bar, blog monetization, conversion, discount offer, engagement, floating bar, highlight bar, important, mailpoet, message, message bar, notice, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,,attention bar, discount offer, floating bar, highlight bar, important, message, notice, notification, notification bar, offer, special offer, sticky header,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message box,notification box
+Donate Link : http://web-settler.com/
 Requires at least:2.2
 Tested up to :3.9
 License: GPLv2
@@ -33,7 +33,7 @@ Responsive , zero coding skills, fulfill your needs.
 
 
 
-<a href="http://notificationbar.blogspot.com/">Get Premium Version</a>
+<a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
 == Installation ==
@@ -41,5 +41,5 @@ Responsive , zero coding skills, fulfill your needs.
 
 == Screenshots ==
 
-For Screenshots Visit: <a href="http://notificationbar.blogspot.com/">Screen Shots</a>
+For Screenshots Visit: <a href="http://web-settler.com/notification-bar/">Screen Shots</a>
 

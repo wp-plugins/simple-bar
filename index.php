@@ -1,15 +1,15 @@
 <?php
 /*  
 Plugin Name: Notification Bar
-Plugin URI:http://notificationbar.blogspot.com/
-Author URI :http://www.wpscrolltotop.blogspot.com
+Plugin URI:http://web-settler.com/notification-bar/
+Author URI http://web-settler.com/
 Description:Notification Bar plugin is very helpful for attracting users attention and to achieve conversions.
 Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
 Version:1.0
 Author: Umar Bajwa
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate link: http://notificationbar.blogspot.com/
+Donate link: http://web-settler.com/notification-bar/
 
 --Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.--
@@ -164,7 +164,7 @@ function admin_mpb_page_f(){
    <br>
     <br>
     <div class="formLayout">
-     <a href="http://notificationbar.blogspot.com/"><button style="height:90px; width:750px; font-size:25px; color:#fff; 
+     <a href="http://web-settler.com/notification-bar/"><button style="height:90px; width:750px; font-size:25px; color:#fff; 
     background: #a90329;
 background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
