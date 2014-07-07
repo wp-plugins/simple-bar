@@ -1,9 +1,9 @@
 <?php
 /*  
-Plugin Name: Notification Bar
+Plugin Name: Conversion Bar
 Plugin URI:http://web-settler.com/notification-bar/
 Author URI http://web-settler.com/
-Description:Notification Bar plugin is very helpful for attracting users attention and to achieve conversions.
+Description:Conversion Bar plugin is very helpful for attracting users attention and to achieve conversions.
 Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
 Version:1.0
 Author: Umar Bajwa
@@ -146,8 +146,8 @@ add_action('admin_menu','mpb_menu_set');
 
 function mpb_menu_set(){
   add_menu_page(
-  'Notification Bar ',
-  'Notification Bar',
+  'Conversion Bar ',
+  'Conversion Bar',
   'administrator',
   'mpb_settings_f',
   'admin_mpb_page_f' 
@@ -159,7 +159,7 @@ function admin_mpb_page_f(){
    ?>
      <?php settings_fields( 'mcb_setting_group' );?>
 <?php do_settings_sections( 'mcb_setting_group' );?>
-  <h1>Notification Bar </h1>
+  <h1>Conversion Bar </h1>
 
    <br>
     <br>

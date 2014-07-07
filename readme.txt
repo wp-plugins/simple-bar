@@ -1,6 +1,6 @@
-=== Notification Bar ===
-Contributors: umarbajwa
-author:umarbajwa,websettler
+=== Conversion Bar ===
+Contributors: umarbajwa, websettler
+author:umarbajwa
 Tags: notify,notification,advertising, announce bar, attention bar, bar, blog monetization, conversion, discount offer, engagement, floating bar, highlight bar, important, mailpoet, message, message bar, notice, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,,attention bar, discount offer, floating bar, highlight bar, important, message, notice, notification, notification bar, offer, special offer, sticky header,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message box,notification box,
 Donate Link : http://web-settler.com/
 Requires at least:2.2
