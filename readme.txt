@@ -1,4 +1,4 @@
-=== Conversion Bar ===
+=== Simple Bar ===
 Contributors: umarbajwa, websettler
 author:umarbajwa
 Tags: notify,notification,advertising, announce bar, attention bar, bar, blog monetization, conversion, discount offer, engagement, floating bar, highlight bar, important, mailpoet, message, message bar, notice, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,,attention bar, discount offer, floating bar, highlight bar, important, message, notice, notification, notification bar, offer, special offer, sticky header,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message box,notification box,
@@ -8,11 +8,11 @@ Tested up to :3.9.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Notification Bar plugin is beautifully designed with focus on ease of use,takes only 30 seconds, No developer logo. 
+Simple Bar plugin is beautifully designed with focus on ease of use,takes only 30 seconds, No developer logo. 
 
 == Description ==
 
-Notification Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
+Simple Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills, fulfill your needs.
 
 
