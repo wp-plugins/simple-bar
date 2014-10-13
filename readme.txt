@@ -11,12 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Simple Bar plugin is beautifully designed with focus on ease of use,takes only 30 seconds, No developer logo. 
 
 == Description ==
-> The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
 
 Simple Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills required, fulfill your needs.
 
-> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities. You should Get the premium Version right now to have full access of this plugin. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
+> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities. You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
 * Provides easy and simple user interface.
@@ -35,7 +34,7 @@ Responsive , zero coding skills required, fulfill your needs.
 * Most important features included.
 * No Short Code
 
-
+> The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
 
 <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
