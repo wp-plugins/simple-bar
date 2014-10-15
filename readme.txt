@@ -1,7 +1,7 @@
 === Simple Bar ===
 Contributors: umarbajwa
 Author:umarbajwa
-Tags: notify,notification,advertising, announce bar, attention bar, bar, conversion, floating bar, highlight bar, important, mailpoet, message, message bar, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,attention bar, floating bar, highlight bar, notification, notification bar, offer,sticky header,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message box,notification box,widget,post,admin,shortcode,images,comments,sidebar,google,image,contact form,email form,plugin,twitter,Facebook,
+Tags: notify,notification,advertising, announce bar, attention bar, bar, conversion, floating bar, highlight bar, important, mailpoet, message, message bar, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,attention bar, floating bar, highlight bar, notification, notification bar,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message,email,subscriber box,notification box,widget,post,admin,shortcode,images,comments,sidebar,google,image,contact form,email form,plugin,twitter,Facebook,
 Donate Link : http://web-settler.com/
 Requires at least:2.2
 Tested up to :4.0
@@ -15,7 +15,7 @@ Simple Bar plugin is beautifully designed with focus on ease of use,takes only 3
 Simple Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills required, fulfill your needs.
 
-> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities. You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
+> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities.
 
 
 * Provides easy and simple user interface.
@@ -35,6 +35,8 @@ Responsive , zero coding skills required, fulfill your needs.
 * No Short Code
 
 > The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
+
+> You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
