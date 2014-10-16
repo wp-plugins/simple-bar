@@ -30,9 +30,8 @@ Responsive , zero coding skills required, fulfill your needs.
 * Design your own bar according to your theme.
 * No developer logo or water mark.
 * Allow you to make your custom bar.
-* Best Wordpress bar plugin.
 * Most important features included.
-* No Short Code
+
 
 > The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
 
