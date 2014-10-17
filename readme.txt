@@ -4,6 +4,7 @@ Author:umarbajwa
 Tags: notify,notification,advertising, announce bar, attention bar, bar, conversion, floating bar, highlight bar, important, mailpoet, message, message bar, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,attention bar, floating bar, highlight bar, notification, notification bar,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message,email,subscriber box,notification box,widget,post,admin,shortcode,wp,images,comments,sidebar,google,image,contact form,email form,plugin,twitter,Facebook,
 Donate Link : http://web-settler.com/
 Requires at least:2.2
+Stable Tag: 1.2
 Tested up to :4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,9 +21,11 @@ Responsive , zero coding skills required, fulfill your needs.
 > You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
+Guaranteed Increase in sales, Conversions and subscribers.
+
 * Provides easy and simple user interface.
 * Shortcode Content Supported.
-* Call to action Button.
+* Call to action Button
 * Responsive/Fluid .
 * Add CSS Gradients.
 * Top & Bottom positioning.
@@ -50,4 +53,11 @@ NOTE : Some features mentioned above are not available in free version you can a
 == Screenshots ==
 
 For Screenshots Visit: <a href="http://web-settler.com/notification-bar/">Screen Shots</a>
+
+
+== Changelog ==
+
+=V.1.2= 
+
+Features added Cookies + Shortcodes Support
 

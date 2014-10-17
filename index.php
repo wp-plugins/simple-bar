@@ -71,10 +71,13 @@ add_action( 'init', 'register_mpb_styles' );
 
 
  function my_mpb_script() {
-  wp_enqueue_script( 'mpb_box_style', plugins_url('simple-bar-premium/mp_script.js'));
+  wp_enqueue_script( 'mpb_box_style', plugins_url('/mp_script.js',__FILE__));
+  wp_enqueue_script( 'mpb_box_script', plugins_url('/jquery.cookie.js',__FILE__));
+
+  wp_enqueue_script('mpb_box_script',plugins_url('/jquery.cookie.js',__FILE__),array( 'jquery' ));
+  wp_enqueue_script('mpb_box_style-1',plugins_url('/mp_script.js',__FILE__),array( 'jquery' ));
   
 }
-wp_enqueue_script("jquery");
 add_action( 'init', 'my_mpb_script');
 //Adding Options
 
@@ -188,7 +191,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
   <input type="number" style="width:10%;" name="mcb_bar_height" min="1" max="100"  value="<?php echo get_option('mcb_bar_height'); ?>"/> %
   <br>
   <label for="mcb_gradient_color"><h4>CSS Gradients : </h4></label>
-  <input type="text" style="width:200px height:300px;" name="mcb_gradient_color" value="<?php get_option('mcb_gradient_color'); ?>">
+  
+  <textarea style="width:200px height:300px;" name="mcb_gradient_color" value="<?php get_option('mcb_gradient_color'); ?>"><?php echo get_option('mcb_gradient_color'); ?></textarea>
   <br>
    <label for="mcb_background_color"><b>Background Color  :</b> </label>
    <input type="color" name="mcb_background_color" class="mcb_bg_color" value="<?php echo get_option('mcb_background_color'); ?>"> 
