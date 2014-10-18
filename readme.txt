@@ -18,10 +18,10 @@ Responsive , zero coding skills required, fulfill your needs.
 
 > You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities.
 
-> You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
-Guaranteed Increase in sales, Conversions and subscribers.
+
+<strong>Guaranteed Increase in sales, Conversions and subscribers.</strong>
 
 * Provides easy and simple user interface.
 * Shortcode Content Supported.
@@ -39,6 +39,8 @@ Guaranteed Increase in sales, Conversions and subscribers.
 
 
 > The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
+
+> You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
 
