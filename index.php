@@ -42,7 +42,7 @@ function my_popup_html(){
    
        <div id="main_mp_box">
 
-       <div id="mp_content" style="font-family:helvetica, verdana, oswald, arial;"><b><?php echo $mcb_content;?></b><div id="cta_div" style="display:inline; text-align:center;">
+       <div id="mp_content" style="font-family:helvetica, verdana, oswald, arial;"><b><?php echo do_shortcode($mcb_content);?></b><div id="cta_div" style="display:inline; text-align:center;">
       
         
 
