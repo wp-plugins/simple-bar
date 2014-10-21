@@ -25,17 +25,21 @@ Responsive , zero coding skills required, fulfill your needs.
 
 * Provides easy and simple user interface.
 * Shortcode Content Supported.
-* Call to action Button
 * Responsive/Fluid .
 * Add CSS Gradients.
+* Add custom html,style, buttons and much more.
+* No developer logo or water mark.
+* Design your own bar according to your theme.
+* Allow you to make your custom bar.
+* Most important features included.
+
+<strong>Premium Version Features</strong>
+
+* Call to action Button.
 * Top & Bottom positioning.
 * Enable/Disable  Close button.
 * Close Button available at both left and right.
-* Add custom html,style, buttons and much more.
-* Design your own bar according to your theme.
-* No developer logo or water mark.
-* Allow you to make your custom bar.
-* Most important features included.
+
 
 
 > The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
