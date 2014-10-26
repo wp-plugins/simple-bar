@@ -27,7 +27,7 @@ Responsive , zero coding skills required, fulfill your needs.
 * Shortcode Content Supported.
 * Responsive/Fluid .
 * Add CSS Gradients.
-* Add custom html,style, buttons and much more.
+* Add custom html,styling, buttons and much more.
 * No developer logo or water mark.
 * Design your own bar according to your theme.
 * Allow you to make your custom bar.

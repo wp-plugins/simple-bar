@@ -322,7 +322,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
  </style>
 <?php
 
- };
+ }
 
 
  
