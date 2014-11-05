@@ -44,14 +44,13 @@ Responsive , zero coding skills required, fulfill your needs.
 
 > The best way to Increase your sales or conversions <a href="http://web-settler.com/notification-bar/"> Get Premium Version Now</a>
 
-> You should Get the premium Version right now to access all features. <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 
 
-<a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 NOTE : Some features mentioned above are not available in free version you can access them by purchasing premium version.
 
+<a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
 == Installation ==
 * Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
