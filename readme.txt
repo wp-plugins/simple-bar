@@ -48,7 +48,7 @@ Responsive , zero coding skills required, fulfill your needs.
 
 
 
-NOTE : Some features mentioned above are not available in free version you can access them by purchasing premium version.
+NOTE : Some features mentioned above are not available in free version.
 
 <a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
 
