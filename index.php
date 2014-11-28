@@ -5,7 +5,7 @@ Plugin URI: http://web-settler.com/notification-bar/
 Author URI: http://web-settler.com/
 Description: Simple Bar plugin is very helpful for attracting users attention and to achieve Conversions.
 Easy and simple to use, Clean and simple design.Best Bar Plugin on wordpress.
-Version:1.2
+Version:1.3
 Author: Umar Bajwa
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
