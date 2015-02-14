@@ -19,9 +19,9 @@ of this license document, but changing or modifying it is not allowed.--
 
 /*
 *************
-* Copyright: 2014 http://web-settler.com/
+* Copyright: 2014 http://web-settler.com
 * Note : License Free to use, Free to modify, Permission required to redistribute.
-* Help :URL:http://web-settler.com/contact/
+* Help :URL:http://web-settler.com/contact
 * Email : umar@web-setter.com
 *************
 */
