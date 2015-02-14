@@ -4,7 +4,7 @@ Author:umarbajwa
 Tags: notify,notification,advertising, announce bar, attention bar, bar, conversion, floating bar, highlight bar, important, mailpoet, message, message bar, notification bar, offer, simple, special offer, Sticky Footer, sticky header, WPML, top notification bar,announcement bar,alert bar,attention bar, floating bar, highlight bar, notification, notification bar,Hello Bar,Bar,simple bar,WP Bar,email subscribe,Bar Plugin,popup,traffic,seo,promotions bar,announcement bar,alert bar,message bar,message,email,subscriber box,notification box,widget,post,admin,shortcode,wp,images,comments,sidebar,google,image,contact form,email form,plugin,twitter,Facebook,
 Donate Link : http://web-settler.com/
 Requires at least:3.4
-Stable Tag: 1.3s
+Stable Tag: 1.3
 Tested up to :4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
