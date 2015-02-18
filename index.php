@@ -321,8 +321,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
  </form>
 </div>
 
-
- 
  <style type="text/css">
  #wpfooter{
   display:none;
@@ -332,8 +330,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 
  }
 
-
- 
- 
 
 ?>
