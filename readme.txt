@@ -5,7 +5,7 @@ Tags: notify,notification,advertising, announce bar, attention bar, bar, convers
 Donate Link : http://web-settler.com/
 Requires at least:3.4
 Stable Tag: 1.3
-Tested up to :4.1
+Tested up to : 4.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
