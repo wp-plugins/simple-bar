@@ -59,9 +59,5 @@ Responsive , zero coding skills required, fulfill your needs.
 
 For Screenshots Visit: <a href="http://web-settler.com/notification-bar/">Screen Shots</a>
 
-== Changelog ==
 
-=V.1.2= 
-
-Features added Cookies + Shortcodes Support
 
