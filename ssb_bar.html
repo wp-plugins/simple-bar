@@ -1,0 +1,20 @@
+
+<span id='ssb_bar_opn'>Open</span>
+
+<div id='ssb_wrap'>
+<div id='ssb_content'>
+
+	<p id='ssb_text'><?php echo do_shortcode(get_option('ssb_content')); ?></p>
+</div>
+<div id='ssb_elem'>
+
+<?php if (get_option('ssb_show_close_button')=='Enable') {
+?> 
+		<img src="<?php echo plugins_url('close.png',__FILE__); ?>" alt="Close" id='ssb_close_btn'>
+	  <?php ;
+} ?>
+
+	
+</div>
+</div>
+

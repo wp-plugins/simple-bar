@@ -1,0 +1,22 @@
+
+<span id='ssb_bar_opn'>Open</span>
+
+<div id='ssb_wrap'>
+<form method="post" action="<?php echo plugins_url('data/ssbdata.php?ssb_data=1',__FILE__); ?>">
+<div id='ssb_content'>
+
+	<p id='ssb_text'><?php echo get_option('ssb_content'); ?>
+	<input type="email" name="ssb_email" placeholder="<?php echo get_option('ssb_bar_email_placeholder'); ?>">
+	<input type="submit" name="" value="<?php echo get_option('ssb_bar_email_submit_text'); ?>">
+	</p>
+</div>
+</form>
+<div id='ssb_elem'>
+<?php if (get_option('ssb_show_close_button')=='Enable') {
+?> 
+		<img src="<?php echo plugins_url('close.png',__FILE__); ?>" alt="Close" id='ssb_close_btn'>
+	  <?php ;
+} ?>
+	
+</div>
+</div>
