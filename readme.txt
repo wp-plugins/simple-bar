@@ -16,7 +16,11 @@ Simple Bar plugin is beautifully designed with focus on ease of use,takes only 3
 Simple Bar plugin offers simple and user friendly user interface. Customize your own bar via options panel with important features which most of the bar plugins do not offer. 
 Responsive , zero coding skills required, fulfill your needs.
 
-> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities.
+> You can add any type of content Ads,Images,HTML,Embed Videos,or even embed contact forms of any Wordpress form plugin with simple short-code and collect leads or let people contact you. This plugin will offer end-less possibilities. 
+
+> MailChimp subscribe form let your vistiors subscribe securely and you can easily acces your subscribers emails.
+
+> Database Subscriber form let your visitors subscribe and lets you download the email as .csv file so that you can add it to any email marketing service without a single trouble.
 
 
 
@@ -34,7 +38,8 @@ Responsive , zero coding skills required, fulfill your needs.
 * Most important features included.
 
 <strong>Premium Version Features</strong>
-
+* MailChimp integration.
+* Email Subscribe field.
 * Call to action Button.
 * Top & Bottom positioning.
 * Enable/Disable  Close button.
@@ -50,14 +55,14 @@ Responsive , zero coding skills required, fulfill your needs.
 
 
 
-<a href="http://web-settler.com/notification-bar/">Get Premium Version</a>
+<a href="http://web-settler.com/ultimate-bar/">Get Premium Version</a>
 
 == Installation ==
 * Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
 == Screenshots ==
 
-For Screenshots Visit: <a href="http://web-settler.com/notification-bar/">Screen Shots</a>
+For Screenshots Visit: <a href="http://web-settler.com/ultimate-bar">Screen Shots</a>
 
 
 

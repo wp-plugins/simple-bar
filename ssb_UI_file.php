@@ -54,19 +54,19 @@ function ssb_bar_plugin_ui(){ //UI function
 	<?php checked('TextOnly',get_option('ssb_bar_template')); ?> >
 	<br>
 	Text With Email Subscribe Field 
-	<input id='ssbEmailOnlySelect' style='margin-left:300px;' class="checkbox" id='emailBar_radio' type="radio" name="ssb_bar_template" value="EmailOnly"
-	<?php checked('EmailOnly',get_option('ssb_bar_template')); ?> >
+	<input id='ssbEmailOnlySelect' style='margin-left:300px;' class="checkbox" id='emailBar_radio' type="radio" name="ssb_bar_template" value=""
+	  disabled > <i><span style="color:red;">(Premium version Only)</span>
 	<br>
 	Text With MailChimp Email Subscribe Field 
-	<input id='ssbEmailOnlySelect' style='margin-left:300px;' class="checkbox" id='emailBar_radio' type="radio" name="ssb_bar_template" value="MailchimpEmailOnly"
-	<?php checked('MailchimpEmailOnly',get_option('ssb_bar_template')); ?> >
+	<input id='ssbEmailOnlySelect' style='margin-left:300px;' class="checkbox" id='emailBar_radio' type="radio" name="ssb_bar_template" value=""
+	 disabled > <span style="color:red;">(Premium version Only)</span>
 	<br>
 	<hr>
 	<br>
 	<label class='ssb_email_fields'>Email Field Place Holder :</label>
-	<input type="text" class='ssb_email_fields' name="ssb_bar_email_placeholder" value="<?php echo get_option('ssb_bar_email_placeholder'); ?>">
+	<input type="text" disabled class='ssb_email_fields' name="ssb_bar_email_placeholder" value="<?php echo get_option('ssb_bar_email_placeholder'); ?>"> <span style="color:red;">(Premium version Only)</span><br>
 	<label class='ssb_email_fields' >Email Field Submit Button Text : </label>
-	<input type="text" class='ssb_email_fields' name="ssb_bar_email_submit_text" value="<?php echo get_option('ssb_bar_email_submit_text'); ?>">
+	<input type="text"  disabled class='ssb_email_fields' name="ssb_bar_email_submit_text" value="<?php echo get_option('ssb_bar_email_submit_text'); ?>"> <span style="color:red;">(Premium version Only)</span></i><br>
 	<br>
 	<label for="ssb_content">Add Bar Text : </label>
 	<!-- <textarea name="ssb_content" placeholder='Enter Some text' width='200px' cols='20' rows="10" value="<?php //echo get_option('ssb_content'); ?>"><?php //echo get_option('ssb_content'); ?></textarea> -->
@@ -79,14 +79,33 @@ function ssb_bar_plugin_ui(){ //UI function
 	<?php submit_button('Save Changes');  ?>		
 
 </form>
+<a href="http://web-settler.com/ultimate-bar/" style='text-decoration: none;' target='_blank' onclick="this.parentNode.submit(); return false;"><div id='rate_button' style=''>Get Premium Version</div></a>
 </div>
 <style type="text/css">
+#rate_button{
+		text-align: center;
+		padding:8% 5% 8% 5%;
+		background:#FFA635;font-size:22px;border:none;color:#fff; border-bottom:10px solid #E08A1C;
+		text-decoration: none;
+		border-radius: 10px;
+		margin-top: 22px;
+		font-size: 29px;
+	}
+	#rate_button:hover{
+		background: #FF9918;
+
+	}
+	#rate_button:active{
+		border: none;
+		padding-top: 9%;
+	}
+
 	
 	.formLayout
     {
         
         padding: 10px;
-        width: 650px;
+        width: 800px;
         margin: 10px;
     }
     

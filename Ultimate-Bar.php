@@ -1,8 +1,12 @@
 <?php
 /*
-Plugin Name: Ultimate Bar
-Version: 1.0
+Plugin Name: Ultimate Bar Free
+Version: 2.0
 Author: umarbajwa
+Plugin URI:http://web-settler.com/ultimate-bar/
+Author URI :http://web-settler.com/contact/
+Donate link: http://web-settler.com/ultimate-bar/
+License: GPL V2 
 */
 
 

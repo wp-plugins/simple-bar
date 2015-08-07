@@ -35,6 +35,32 @@ $pss = 'posts-slider';
 			<br>
 			<br>
 		</div>
+				<div id='prem_ver'>
+			
+<li>
+	 MailChimp Supported
+</li>
+<li>
+	Email Subscribe field
+</li>
+<li>
+	Download susbcribers data.
+</li>
+<li>
+	View subscribers data.
+</li>
+<li>
+	All Features Unlocked.
+</li>
+<li>
+	Fast Support.
+</li>
+<li>
+	Unlimited Updates.
+</li>
+<a href="http://web-settler.com/ultimate-bar/" style='text-decoration: none;' target='_blank' onclick="this.parentNode.submit(); return false;"><div id='rate_button' style=''>Get Premium Version</div></a>
+
+			</div>
 		<div id='sec_right'>
 				<h3>Recommended Plugins</h3>
 				<img src="<?php echo plugins_url('imgs/ulp.png',__FILE__); ?>" class="rc_plugin_thumb">
@@ -50,6 +76,13 @@ $pss = 'posts-slider';
 		</div>
 
 		<style>
+		#img_ad{
+			width:50%;
+			height: 400px;
+			display: inline-block;
+			float: left;
+			margin-top: 105px;
+		}
 		.rc_plugin_thumb{
 			width: 200px;
 			height: 100px;
@@ -59,7 +92,7 @@ $pss = 'posts-slider';
 
 		#sec_left{
 			margin-top:100px;
-			width:40%;
+			width:20%;
 			display: inline-block;
 			float: left;
 		}
@@ -72,6 +105,40 @@ $pss = 'posts-slider';
 			padding: 20px;
 
 		}
+		#prem_ver{
+			width: 400px;
+			display: inline-block;
+			margin-top: 100px;
+			padding: 40px;
+			background: #23282D;
+			color: #fff;
+
+
+		}
+
+			#rate_button{
+		text-align: center;
+		padding:8% 5% 8% 5%;
+		background:#FFA635;font-size:22px;border:none;color:#fff; border-bottom:10px solid #E08A1C;
+		text-decoration: none;
+		border-radius: 10px;
+		margin-top: 22px;
+		font-size: 29px;
+	}
+	#rate_button:hover{
+		background: #FF9918;
+
+	}
+	#rate_button:active{
+		border: none;
+		padding-top: 9%;
+	}
+
+	#prem_ver > li{
+		font-size: 18px;
+		line-height: 1.2em;
+	}
+
 
 		</style>
 
